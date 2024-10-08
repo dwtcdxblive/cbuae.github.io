@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cbuae.github.io/static/css/main.9975211d.css",
-    "main.js": "/cbuae.github.io/static/js/main.9293e1bb.js",
+    "main.css": "/cbuae.github.io/static/css/main.a6a7b377.css",
+    "main.js": "/cbuae.github.io/static/js/main.9ed406c9.js",
     "static/js/453.bd457ba5.chunk.js": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js",
     "static/media/Live-stream-Screen.png": "/cbuae.github.io/static/media/Live-stream-Screen.4b2098a44e664f550d9f.png",
-    "static/media/mob.png": "/cbuae.github.io/static/media/mob.77133569245929c7747d.png",
+    "static/media/mob.png": "/cbuae.github.io/static/media/mob.2dea19ff6ee5a3c108ce.png",
     "static/media/eyamllogo.png": "/cbuae.github.io/static/media/eyamllogo.c38ebd7df5ca470462e9.png",
     "static/media/cbuaelogo.png": "/cbuae.github.io/static/media/cbuaelogo.2eb5191eb95040fe4526.png",
     "index.html": "/cbuae.github.io/index.html",
-    "main.9975211d.css.map": "/cbuae.github.io/static/css/main.9975211d.css.map",
-    "main.9293e1bb.js.map": "/cbuae.github.io/static/js/main.9293e1bb.js.map",
+    "main.a6a7b377.css.map": "/cbuae.github.io/static/css/main.a6a7b377.css.map",
+    "main.9ed406c9.js.map": "/cbuae.github.io/static/js/main.9ed406c9.js.map",
     "453.bd457ba5.chunk.js.map": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9975211d.css",
-    "static/js/main.9293e1bb.js"
+    "static/css/main.a6a7b377.css",
+    "static/js/main.9ed406c9.js"
   ]
 }
