@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Alexandria", sans-serif;
+}
+
+.back-image{
+  height: 100vh;
+  width: 100%;
+  background-image: url('./assets/Live-stream-Screen.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.navcb{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .cb{
+    width: 20rem;
+  }
+  .ologo{
+    width: 15rem;
+  }
+}
+.iframe{
+width: 50vw;
+height: 50vh;
+}
+.bg-trans{
+  background: transparent !important;
+}
+
+
+/* For mobile screens */
+@media (max-width: 767px) {
+  .back-image{
+    background-image: url('./assets/mob.png');  }
+    .App .logos{
+      display: none !important;
+    }
+}
