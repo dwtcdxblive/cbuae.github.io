@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cbuae.github.io/static/css/main.a6a7b377.css",
-    "main.js": "/cbuae.github.io/static/js/main.56d53b75.js",
+    "main.css": "/cbuae.github.io/static/css/main.14c32acd.css",
+    "main.js": "/cbuae.github.io/static/js/main.09efd62a.js",
     "static/js/453.bd457ba5.chunk.js": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js",
-    "static/media/Live-stream-Screen.png": "/cbuae.github.io/static/media/Live-stream-Screen.4b2098a44e664f550d9f.png",
+    "static/media/Live-stream-Screen.png": "/cbuae.github.io/static/media/Live-stream-Screen.0a3129acfbb76d8529d0.png",
     "static/media/mob.png": "/cbuae.github.io/static/media/mob.2dea19ff6ee5a3c108ce.png",
-    "static/media/eyamllogo.png": "/cbuae.github.io/static/media/eyamllogo.c38ebd7df5ca470462e9.png",
-    "static/media/cbuaelogo.png": "/cbuae.github.io/static/media/cbuaelogo.2eb5191eb95040fe4526.png",
+    "static/media/eyamllogo.png": "/cbuae.github.io/static/media/eyamllogo.f1fcce4adde8a394ebee.png",
+    "static/media/cbuaelogo.png": "/cbuae.github.io/static/media/cbuaelogo.57e186162c675d5c17ed.png",
     "index.html": "/cbuae.github.io/index.html",
-    "main.a6a7b377.css.map": "/cbuae.github.io/static/css/main.a6a7b377.css.map",
-    "main.56d53b75.js.map": "/cbuae.github.io/static/js/main.56d53b75.js.map",
+    "main.14c32acd.css.map": "/cbuae.github.io/static/css/main.14c32acd.css.map",
+    "main.09efd62a.js.map": "/cbuae.github.io/static/js/main.09efd62a.js.map",
     "453.bd457ba5.chunk.js.map": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6a7b377.css",
-    "static/js/main.56d53b75.js"
+    "static/css/main.14c32acd.css",
+    "static/js/main.09efd62a.js"
   ]
 }
