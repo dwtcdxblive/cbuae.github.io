@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cbuae.github.io/static/css/main.b1a134dc.css",
-    "main.js": "/cbuae.github.io/static/js/main.c2a7ff2b.js",
+    "main.js": "/cbuae.github.io/static/js/main.3c708166.js",
     "static/js/453.bd457ba5.chunk.js": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js",
     "static/media/Live-stream-Screen-Background-2.png": "/cbuae.github.io/static/media/Live-stream-Screen-Background-2.2ed4bc0842e53aaea3db.png",
     "static/media/mob.png": "/cbuae.github.io/static/media/mob.2dea19ff6ee5a3c108ce.png",
@@ -9,11 +9,11 @@
     "static/media/cbuaelogo.png": "/cbuae.github.io/static/media/cbuaelogo.d075d27a5fb547bd5121.png",
     "index.html": "/cbuae.github.io/index.html",
     "main.b1a134dc.css.map": "/cbuae.github.io/static/css/main.b1a134dc.css.map",
-    "main.c2a7ff2b.js.map": "/cbuae.github.io/static/js/main.c2a7ff2b.js.map",
+    "main.3c708166.js.map": "/cbuae.github.io/static/js/main.3c708166.js.map",
     "453.bd457ba5.chunk.js.map": "/cbuae.github.io/static/js/453.bd457ba5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a134dc.css",
-    "static/js/main.c2a7ff2b.js"
+    "static/js/main.3c708166.js"
   ]
 }
